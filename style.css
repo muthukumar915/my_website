@@ -1,0 +1,28 @@
+#head{
+    text-align: center;
+    color: rgb(33, 33, 134);
+}
+#add{
+    text-align: center;
+    color: rgb(33, 33, 134);
+}
+#row{
+    display: flex;
+    justify-content: space-evenly;
+}
+h3{
+color: red;    
+}
+#center{
+    text-align: center;
+}
+.style{
+    color: orangered;
+}
+#center h2{
+    color: rgb(33, 33, 134);
+}
+
+footer{
+    text-align: center;
+}
